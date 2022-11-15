@@ -15,4 +15,6 @@ spec:
       version: 39.5.0
   interval: 1m0s
   targetNamespace: observability
+  install:
+    createNamespace: true
 
